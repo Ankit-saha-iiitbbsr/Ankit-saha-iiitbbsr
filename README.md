@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit-saha-iiitbbsr 
-- 👀 I’m interested in Web Dev, AI-ML
+- 👀 I’m interested in Web Dev, AI-ML, Deep Learning
 - 🌱 I’m currently learning Web Development technologies
 - 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me, email: ankitbbsr2002@gmail.com

@@ -11,7 +11,8 @@ My name is Ankit Saha and I’m web application developer & AI/ML developer. On 
 [![LinkedIn](./assets/icons8-linkedin-96.svg)](https://www.linkedin.com/in/ankit-saha2002/)
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) ![Python](./assets/icons8-python.svg) ![Mediapipe](./assets/mediapipe_icon.png) ![TensorFlow](./assets/icons8-tensorflow.svg) ![Keras](./assets/keras_icon.png) ![Streamlit](./assets/streamlit_icon.png) ![Flask](./assets/icons8-flask.svg) ![OpenCV](./assets/icons8-opencv.svg) 
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg) ![Python](./assets/icons8-python.svg) 
+
 
 ### 🧰 Languages and Tools
 

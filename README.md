@@ -29,7 +29,7 @@ My name is Ankit Saha and I’m web application developer & AI/ML developer. On 
 
 
 <details>
- <summary><h3>👨‍💻 KNOWLEDGE DOCTOR Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Coding Journey</h3></summary>
    My coding journey has been an exciting blend of learning, experimenting, and applying my skills to real-world problems.
 
 I began by building a strong foundation in Python, as it's an essential tool in the machine learning world. I started with basic syntax, data structures, and gradually moved on to more advanced concepts like object-oriented programming. As I honed my Python skills, I was able to tackle coding challenges and gradually transitioned to working on machine learning projects.

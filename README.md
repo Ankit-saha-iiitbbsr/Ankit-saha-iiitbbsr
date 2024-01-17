@@ -27,6 +27,23 @@ My name is Ankit Saha and I’m web application developer & AI/ML developer. On 
 
 <br />
 
+
+<details>
+ <summary><h3>👨‍💻 KNOWLEDGE DOCTOR Coding Journey</h3></summary>
+   My coding journey has been an exciting blend of learning, experimenting, and applying my skills to real-world problems.
+
+I began by building a strong foundation in Python, as it's an essential tool in the machine learning world. I started with basic syntax, data structures, and gradually moved on to more advanced concepts like object-oriented programming. As I honed my Python skills, I was able to tackle coding challenges and gradually transitioned to working on machine learning projects.
+
+Early in my journey, I focused on learning the core machine learning concepts, including supervised and unsupervised learning, regression, classification, and clustering. This knowledge allowed me to work on my first few projects, where I applied algorithms like linear regression and decision trees to solve problems such as predicting sales trends and customer segmentation.
+
+As I delved deeper into the field, I ventured into more complex areas like deep learning. I became proficient with libraries like TensorFlow and Keras, which opened up opportunities to work on projects involving image classification and natural language processing tasks. One memorable project involved training a convolutional neural network to identify objects in images, which required a solid understanding of not only the algorithms but also data preprocessing and model optimization techniques.
+
+Throughout my journey, I learned the importance of clean, maintainable, and efficient code. I embraced version control systems like Git, which allowed me to collaborate effectively with team members and track changes in my codebase. Moreover, I became passionate about writing modular and well-documented code, ensuring that my projects were not only functional but also understandable to colleagues and collaborators.
+
+One key aspect of my coding journey has been continuous learning. I regularly engage with online courses, research papers, and technical blogs to stay updated on the latest advancements in the field. This thirst for knowledge has led me to experiment with cutting-edge techniques like transfer learning and generative adversarial networks.
+
+In summary, my coding journey as a Python machine learning engineer has been a rewarding progression from mastering Python's fundamentals to confidently implementing complex machine learning algorithms. It's a journey of curiosity, determination, and constant improvement, and I'm excited to bring this experience to the challenges and opportunities ahead."
+
 <!---
 Ankit-saha-iiitbbsr/Ankit-saha-iiitbbsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
